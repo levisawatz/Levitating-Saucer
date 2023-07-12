@@ -25,8 +25,7 @@ Left to right: Kazi, Sam, Alex, Levi (me), Murtaz, Henry
 
 ## What's inside:  
 
-<img src="./images/saucer%20block%20diagram.png" height="200" />
-<img src="./images/saucer%20circuit%20parts.png" height="200" />
+<img src="./images/saucer%20block%20diagram.png" height="200" /><img src="./images/saucer%20circuit%20parts.png" height="200" />
 
 
 
