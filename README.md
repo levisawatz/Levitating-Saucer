@@ -13,7 +13,7 @@ This was a fun and challenging project done as part of the U of C ENEL400 design
     - Magnetic levitation
     - Wireless power transfer
 - Power electronics
-- Microcontroller programming  
+- Microcontroller programming
 
 
 ## The team:  
@@ -23,11 +23,9 @@ This was a fun and challenging project done as part of the U of C ENEL400 design
 Left to right: Kazi, Sam, Alex, Levi (me), Murtaz, Henry  
 
 
-## What's inside:  
+## What's inside:   
 
 <img src="./images/saucer%20block%20diagram.png" height="200" /><img src="./images/saucer%20circuit%20parts.png" height="200" />
-
-
 
 
 ## Levitation PID control circuit:  
