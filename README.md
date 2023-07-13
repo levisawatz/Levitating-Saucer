@@ -5,7 +5,7 @@
 
 
 
-This was a fun and challenging project done as part of the U of C ENEL400 design course. It involved many interesting technical aspects of electrical engineering including:
+This was a fun and challenging project done as part of the U of C ENEL400 design course. Awarded "favorite project" by my professor. It involved many interesting technical aspects of electrical engineering including:
 - Analog circuit design
 - PID control 
 - PCB design
