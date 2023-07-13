@@ -31,7 +31,7 @@ Left to right: Kazi, Sam, Alex, Levi (me), Murtaz, Henry
 
 
 ## Levitation PID control circuit:  
-More spesifically a "PD" controll system that that uses a Proportonal and Derivative control to keep the levitating saucer in one place and dampen oscillations.  
+More specifically, a "PD" controll system that that uses a Proportonal and Derivative control to keep the levitating saucer in one place and dampen oscillations.  
 This circuit uses voltage adders/subtractors/multipliers to reactively compute the power to be sent to the electromagnet that suspends the levitating object.
   
 <img src="./images/levitation%20control%20circuit.jpg" width="250"/>  
