@@ -23,7 +23,8 @@ This was a fun and challenging project done as part of the U of C ENEL400 design
 Left to right: Kazi, Sam, Alex, Levi (me), Murtaz, Henry  
 
 
-## What's inside:   
+## What's inside?:   
+Not batteries! The levitating saucer is powered wirelessly. The transmitter coil resonates at 30kHz. The recieved power consumption (after rectification and regulation) is 500mW and the working range is over 2 inches.  
 
 <img src="./images/saucer%20block%20diagram.png" height="200" /><img src="./images/saucer%20circuit%20parts.png" height="200" />
 
